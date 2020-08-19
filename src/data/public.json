@@ -1,0 +1,10 @@
+{
+    "categories": [
+        { "id": 1007, "description": "Fashion Photoshoot","image": "/assets/undraw_fashion_photoshoot_mtq8.png" },
+        { "id": 1008, "description": "Jewelry","image": "/assets/undraw_jewelry_iima.png" },
+        { "id": 1009, "description": "Deliveries","image": "/assets/undraw_deliveries_131a.png" },
+        { "id": 1010, "description": "Sculpting","image": "/assets/undraw_sculpting_1c9p.png" },
+        { "id": 1011, "description": "Urban Design","image": "/assets/undraw_urban_design_kpu8.png" },
+        { "id": 1012, "description": "Moving Service","image": "/assets/undraw_Moving_twwf.png" }
+    ]
+}

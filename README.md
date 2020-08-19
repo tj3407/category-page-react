@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Description: 
+- Either Public or Private category items are shown based on user's login state
+- Used Material UI library for styling
+- User login state is stored in Redux store and there are 2 actions available (login & logout)
+- Category images are sourced from https://undraw.co
+- SPA is responsive with 3 breakpoints ( < 480, 480-767, 768+)
+
 ## Available Scripts
 
 In the project directory, you can run:
